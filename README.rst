@@ -131,4 +131,4 @@ Website itself uses some MIT licensed Javascript libraries:
 * Colorbox <https://www.jacklmoore.com/colorbox/>
 
 The website content is licensed under Creative Commons
-Attribution-Noncommercial-Share Alike 3.0 Unported License.
+Attribution-Noncommercial-Share Alike 3.0 Unported License.Have a good day 
